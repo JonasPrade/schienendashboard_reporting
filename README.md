@@ -1,2 +1,2 @@
-# schienendashboard_reporting
-a empty repository that uses the issue feature of Github to track missing data or wrong data of the schienendashboard
+# Report Github Repository für das Schienendashboard
+Dieses leere Github Repository dient zum Melden sowie Monitoren von falschen oder fehlenden Daten für das [Schienendashboard](https://d-b.schienengruen.de/)
