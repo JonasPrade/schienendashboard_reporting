@@ -3,3 +3,5 @@ Dieses leere Github Repository dient zum Melden sowie Monitoren von falschen ode
 Dafür wird das Feature Issues von Github genutzt. Daher gerne Fehler etc. dort melden.
 
 Vorschläge, Bugs etc am Frontend selbst sind im entsprechenden Github Repository zu melden.
+
+In Bezug auf Meldungen zu einem Projekt immer die project id oder die url angeben!
